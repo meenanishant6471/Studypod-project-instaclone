@@ -121,13 +121,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-<!-- Share your contact details. Preferrably these details
-Email
-LinkedIn
-GitHub
 
-Note: Do not share your mobile number as it will expose it over the internet
--->
+Email - nishantmeena6471@gmail.com
+LinkedIn - https://www.linkedin.com/in/nishant-meena-bb056022b/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
