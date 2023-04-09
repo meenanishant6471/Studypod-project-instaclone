@@ -68,7 +68,7 @@ KRITIKA<br>
 
 ### Mentor
 
-SHIVAM BOSS
+SHIVAM GUPTA BOSS
 
 ## Weekly/Monthly Logs
 
@@ -110,9 +110,7 @@ Date:
 
 ## Project
 
-This section contains the details about the different projects made by the team.
-
-### Project 1
+This project was created with HTML and CSS in which we create The Instagram Clone it's feature are story view , sharing posts & feeds ,and chatting.
 
 <!-- Add the summary of the project along with the link to the markdown file for the project. Check out the Sample Project.md to get the idea of the structure of the Project file.
 -->
